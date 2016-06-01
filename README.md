@@ -14,7 +14,7 @@ It is time to put what you have learned into practice and grow confidence by bui
 
 2. Make sure you are on your master branch `git checkout master` and create a new branch called forms-iframes like so: `git checkout -b forms-iframes`.
 
-3. Next, open your favorite code editor and make sure to include at the minimum the following things in your projects HTML page(s):
+3. Next in the text editor area of the IDE and make sure to include at the minimum the following things in your projects HTML page(s):
   - form
   - iframe either google map embed or youtube video embed.
   - make use of semantic elements to surround your content.
